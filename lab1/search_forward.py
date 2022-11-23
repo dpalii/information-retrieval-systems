@@ -1,4 +1,6 @@
 import sys
 
-def search_forward(keyword):
-    return
+
+def search_forward(index, keyword):
+    return []
+

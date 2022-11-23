@@ -1,2 +1,2 @@
-def forward_index():
+def forward_index(text):
     return
